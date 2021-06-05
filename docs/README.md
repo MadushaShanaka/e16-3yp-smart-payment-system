@@ -1,3 +1,4 @@
+
 # Smart-payment-system
 ---
 This is the 3rd year embedded system project
@@ -46,24 +47,25 @@ This is the 3rd year embedded system project
   
   1. Cashier Node
   
-  [![Cashier Hardware 3D](https://github.com/MadushaShanaka/e16-3yp-smart-payment-system/blob/main/Demonstration/img_cashier_hard_3d.jpg)](https://youtu.be/4YNhmeZaI7E)
+  [![Cashier Hardware 3D](https://github.com/MadushaShanaka/e16-3yp-smart-payment-system/blob/main/Demonstration/img_cashier_hard_3d.jpg?raw=true)](https://youtu.be/4YNhmeZaI7E)
   
   2. Gaming Node
 
-  [![Gaming Node Hardware 3D](https://github.com/MadushaShanaka/e16-3yp-smart-payment-system/blob/main/Demonstration/img_gaming_node_hard_3d.jpg)](https://youtu.be/KYDXmXD5vWg)
+  [![Gaming Node Hardware 3D](https://github.com/MadushaShanaka/e16-3yp-smart-payment-system/blob/main/Demonstration/img_gaming_node_hard_3d.jpg?raw=true)](https://youtu.be/KYDXmXD5vWg)
   
   Hardware design
 ![Our Design](https://github.com/sathirauop/e16-3yp-smart-payment-system/blob/main/Diagrams/EasyEDA_diagram.png?raw=true)  
-![Our Design](https://github.com/MadushaShanaka/e16-3yp-smart-payment-system/blob/main/Diagrams/PCB/PCB.jpeg) 
+
+![Our Design](https://github.com/MadushaShanaka/e16-3yp-smart-payment-system/blob/main/Diagrams/PCB/PCB.jpeg?raw=true) 
 
   Demonstration
   1. Cashier Node
   
-  [![Cashier Hardware demonstration](https://github.com/MadushaShanaka/e16-3yp-smart-payment-system/blob/main/Demonstration/img_cashier_hard.jpg)](https://youtu.be/FA2izcUz030)
+  [![Cashier Hardware demonstration](https://github.com/MadushaShanaka/e16-3yp-smart-payment-system/blob/main/Demonstration/img_cashier_hard.jpg?raw=true)](https://youtu.be/FA2izcUz030)
   
   2. Gaming Node
 
-  [![Gaming Node Hardware demonstration](https://github.com/MadushaShanaka/e16-3yp-smart-payment-system/blob/main/Demonstration/img_gaming_node.jpg)](https://youtu.be/XCwr7IixzDE)
+  [![Gaming Node Hardware demonstration](https://github.com/MadushaShanaka/e16-3yp-smart-payment-system/blob/main/Demonstration/img_gaming_node.jpg?raw=true)](https://youtu.be/XCwr7IixzDE)
   
   Software design
   
@@ -73,19 +75,21 @@ This is the 3rd year embedded system project
 
     2. Cashier Application
     
- [![Cashier App](https://github.com/MadushaShanaka/e16-3yp-smart-payment-system/blob/main/Demonstration/img_cashier_app.jpg)](https://youtu.be/9UNsXmhzdWU)
+ [![Cashier App](https://github.com/MadushaShanaka/e16-3yp-smart-payment-system/blob/main/Demonstration/img_cashier_app.jpg?raw=true)](https://youtu.be/9UNsXmhzdWU)
  
     3. Web Application
     
-[![Web App](https://github.com/MadushaShanaka/e16-3yp-smart-payment-system/blob/main/Demonstration/img_web_app.jpg)](https://youtu.be/JaxcWVb3in4)
+[![img_web_app](https://user-images.githubusercontent.com/54934856/120007420-84286800-bff7-11eb-9ab5-6f6fdeaf4f03.jpg?raw=true)](https://youtu.be/JaxcWVb3in4)
 
 ## Testing
-      Under testing we checked for unit testing and intergration testing. In unit testing we checked all functions related to 
-      adding a card, refunding, return, scanning a card, issue a card, register and login.
+  Under testing we checked for unit testing and intergration testing. In unit testing we checked all functions related to adding a card, refunding, return, scanning a card, issue a card, register and login.
+  
  ![Testing](https://github.com/cepdnaclk/e16-3yp-smart-payment-system/blob/main/images/Testing/unit%20testing.jpeg?raw=true)  
  
-    Under intergration testing we tested Basic route to see the server up and ruining and Route which send the 404 message
+  Under intergration testing we tested Basic route to see the server up and ruining and Route which send the 404 message
+    
  ![Testing1](https://github.com/cepdnaclk/e16-3yp-smart-payment-system/blob/main/images/Testing/integrtion%20testing.jpeg?raw=true)  
+ 
 ## Target Audience
   The target audience of this project is Gaming centers which is our primary target. As our next milestone, we are planning to update this system in a way that it can be used in any commercial market place such as casino, leisure world, etc.
   
